@@ -3,35 +3,61 @@
     "headOffice": "North Pole",
     "established": 2023,
     "active": true,
-    "topFlavors": [{
-        "name": "Chocolate Mint",
-        "calories": 300,
-        "type": "ice-cream",
-        "ingredients": [
-            "Chocolate Syrup",
-            "Peppermint Sprinkle",
-            "Vanilla Base"
-        ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/chocolate-mint.svg"
-    }, {
-        "name": "Peach Mango",
-        "calories": 350,
-        "type": "milkshake-type ice-cream",
-        "ingredients": [
-            "Peach Syrup",
-            "Mango Chunks",
-            "Vanilla Base"
-        ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/peach-mango.svg"
-    }, {
-        "name": "Strawberry Sprinkle",
-        "calories": 400,
-        "type": "ice-cream",
-        "ingredients": [
-            "Strawberry Syrup",
-            "Some Sprinkles",
-            "Vanilla Base"
-        ],
-        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
-    }]
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkle",
+                "Vanilla Base"
+            ],
+            "image": "https://github.com/Surajdhiman23/23F-JavaScript-02-Week11-Lab4/blob/main/images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "https://github.com/Surajdhiman23/23F-JavaScript-02-Week11-Lab4/blob/main/images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Syrup",
+                "Some Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "https://github.com/Surajdhiman23/23F-JavaScript-02-Week11-Lab4/blob/main/images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Vanilla Bean",
+            "calories": 250,
+            "type": "ice-cream",
+            "ingredients": [
+                "Vanilla Bean Extract",
+                "Sugar",
+                "Cream"
+            ],
+            "image": "https://github.com/Surajdhiman23/23F-JavaScript-02-Week11-Lab4/blob/main/images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Rocky Road",
+            "calories": 450,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Chunks",
+                "Marshmallows",
+                "Nuts"
+            ],
+            "image": "https://github.com/Surajdhiman23/23F-JavaScript-02-Week11-Lab4/blob/main/images/ice-cream-xtra2.svg"
+        }
+    ]
 }
